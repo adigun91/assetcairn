@@ -1,0 +1,8 @@
+Django>=5.2.8,<5.3
+djangorestframework>=3.18.2,<3.19
+python-dotenv>=1.2,<2
+whitenoise>=6.11,<7
+waitress>=3.0.2,<4
+cryptography>=50,<51
+Pillow>=13.0.0,<14
+redis>=5.2,<7

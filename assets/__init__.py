@@ -1,0 +1,1 @@
+"""IT asset lifecycle application."""
